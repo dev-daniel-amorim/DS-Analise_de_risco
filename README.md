@@ -13,7 +13,7 @@ O objetivo deste matérial é desenvolver uma solução data science aliado ao m
 O conjunto de dados a ser utilizado neste Projeto de Data Science parte de uma competição realizada pela Startup Nubank a fim de revelar talentos e potenciais contratações pela Fintech.
 
 ## Notebook
-[Clique aqui para ver o notebook deste projeto.](https://github.com/dev-daniel-amorim/DS-Analise_de_risco_II/blob/main/Analise%20de%20risco%20II.ipynb)
+[Clique aqui para ver o notebook deste projeto.](https://github.com/dev-daniel-amorim/DS-Analise_de_risco/blob/main/Analise%20de%20risco.ipynb)
 <br>
 <br>
 <hr>
