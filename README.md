@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Uma grande problemática enfrentada hoje por bancos, financeiras e empresas é o risco de inadimplência por parte de seus clientes que podem provocar um grande impacto para as instituições financeiras. 
+Uma grande problemática enfrentada hoje por bancos, financeiras e empresas é o risco de inadimplência por parte de seus clientes que podem provocar um grande impacto para as instituições financeiras. Todo notebook deste projeto foi refeito pelo autor deste repositório.
 
 ## Objetivo
 
